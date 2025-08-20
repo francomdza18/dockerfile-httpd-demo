@@ -42,4 +42,5 @@ http://localhost:8080
 ```
 
 > ⚠️ *Para modificar la pagina solo basta con agregar tu propio index.html y los archivos necesarios en el directorio donde se encuentra el Dockerfile*
-
+>
+> ⚠️ Si estas utilizando Docker, solo sustituye **podman** por **docker** en los comandos
